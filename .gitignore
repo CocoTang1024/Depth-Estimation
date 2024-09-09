@@ -1,0 +1,4 @@
+/.vscode
+LapDepth/__pycache__
+LapDepth/datasets
+LapDepth/LDRN_KITTI_ResNext101_pretrained_data.pkl
